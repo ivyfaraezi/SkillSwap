@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://img.freepik.com/free-psd/guitar-lessons-banner-template_23-2148652911.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://cdn.vectorstock.com/i/500p/98/10/english-language-learning-website-banner-concept-vector-20429810.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Priya Singh",
+    "providerEmail": "priya@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Gentle yoga sessions to improve flexibility and mindfulness.",
+    "image": "https://img.freepik.com/premium-psd/international-yoga-day-flyer_1111794-3200.jpg?semt=ais_user_personalization&w=740&q=80",
+    "category": "Health"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Basic Coding Help",
+    "providerName": "John Lee",
+    "providerEmail": "john@skillswap.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Learn programming basics in Python and JavaScript.",
+    "image": "https://cdn.vectorstock.com/i/500p/12/77/coding-banner-thin-line-style-vector-15041277.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 5,
+    "skillName": "French Language Exchange",
+    "providerName": "Marie Dubois",
+    "providerEmail": "marie@skillswap.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Practice conversational French with a native speaker.",
+    "image": "https://img.freepik.com/premium-vector/french-typographic-header-language-school-french-course-study-foreign-languages-with-native-speaker-idea-global-communication-vector-illustration-cartoon-style_277904-15292.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Photography Basics",
+    "providerName": "David Kim",
+    "providerEmail": "david@skillswap.com",
+    "price": 18,
+    "rating": 4.4,
+    "slotsAvailable": 3,
+    "description": "Learn how to use your camera and take great photos.",
+    "image": "https://www.thephoblographer.com/wp-content/uploads/2018/09/Pauleth-Ip-The-Phoblographer-Fujifilm-XT-3-Photo-2-of-7-770x514.jpg",
+    "category": "Art"
+  }
+]
