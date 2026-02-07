@@ -4,7 +4,7 @@ A community-driven platform where users can discover, share, and book skill sess
 
 ## 🌐 Live URL
 
-🔗 **[SkillSwap Live](https://warmpaws-48847.web.app/)**
+🔗 **[SkillSwap Live](https://skillswap-562e3.web.app/)**
 
 ---
 
